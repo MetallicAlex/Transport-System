@@ -1,0 +1,15 @@
+D:\Work\Course Project\PPIS\TransportSystem\TransportSystem\bin\Debug\TransportSystem.exe.config
+D:\Work\Course Project\PPIS\TransportSystem\TransportSystem\bin\Debug\TransportSystem.exe
+D:\Work\Course Project\PPIS\TransportSystem\TransportSystem\bin\Debug\TransportSystem.pdb
+D:\Work\Course Project\PPIS\TransportSystem\TransportSystem\obj\Debug\TransportSystem.csprojAssemblyReference.cache
+D:\Work\Course Project\PPIS\TransportSystem\TransportSystem\obj\Debug\TransportSystem.Form1.resources
+D:\Work\Course Project\PPIS\TransportSystem\TransportSystem\obj\Debug\TransportSystem.Form2.resources
+D:\Work\Course Project\PPIS\TransportSystem\TransportSystem\obj\Debug\TransportSystem.Properties.Resources.resources
+D:\Work\Course Project\PPIS\TransportSystem\TransportSystem\obj\Debug\TransportSystem.csproj.GenerateResource.cache
+D:\Work\Course Project\PPIS\TransportSystem\TransportSystem\obj\Debug\TransportSystem.csproj.CoreCompileInputs.cache
+D:\Work\Course Project\PPIS\TransportSystem\TransportSystem\obj\Debug\TransportSystem.exe
+D:\Work\Course Project\PPIS\TransportSystem\TransportSystem\obj\Debug\TransportSystem.pdb
+D:\Work\Course Project\PPIS\TransportSystem\TransportSystem\obj\Debug\TransportSystem.Form5.resources
+D:\Work\Course Project\PPIS\TransportSystem\TransportSystem\obj\Debug\TransportSystem.Form3.resources
+D:\Work\Course Project\PPIS\TransportSystem\TransportSystem\obj\Debug\TransportSystem.Form6.resources
+D:\Work\Course Project\PPIS\TransportSystem\TransportSystem\obj\Debug\TransportSystem.Form4.resources
